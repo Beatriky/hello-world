@@ -10,3 +10,5 @@ Hey, guess what... you can also add your account avatar (image). It's enough to 
 Like this:  
 https://avatars.githubusercontent.com/u/57981531?v=4
 
+
+Haideti sa invatam Git 
